@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Typescript and more depth about ReactJS with it's tools in it**
 
-- 👨‍💻 All of my projects are available at [https://micheal-owen.netlify.app/](https://micheal-owen.netlify.app/)
+- 👨‍💻 All of my projects are available at [updated soon)
 
 - 📫 How to reach me **mowen8983@gmail.com**
 
