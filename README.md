@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Micheal501/Micheal501/output/snake.svg" alt="Snake animation" />
 
 ###
